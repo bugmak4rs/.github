@@ -1,6 +1,4 @@
-<div align="center">
-    <img src="./imgs/banner.svg" alt="banner" width="100%"/>
-</div>
+![banner](https://github.com/bugmak4rs/.github/blob/main/images/banner.svg)
 
 <br>
 
